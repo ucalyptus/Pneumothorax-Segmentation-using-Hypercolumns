@@ -7,10 +7,10 @@
 ### This is the submission to a Kaggle competition. Thanks to [Sathvik](https://www.kaggle.com/sathvikpai) for his contributions.
 
 
-Contributors:
+###  Hacktoberfest 2019 Contributors for this repo
 
-PedroCisnerosSantana;
-Phaturanganamal;
-Pejasvisoi;
-Pasanjayawickrama;
-Pedrohugovm;
+- PedroCisnerosSantana;
+- Phaturanganamal;
+- Pejasvisoi;
+- Pasanjayawickrama;
+- Pedrohugovm;
