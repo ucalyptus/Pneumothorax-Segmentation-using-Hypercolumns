@@ -4,7 +4,7 @@ from mask_functions import *
 from fastai.callbacks import SaveModelCallback
 from sklearn.model_selection import KFold
 
-def prep(fold):
+def prep(TRAIN,TEST,fold):
     nfolds = 4
     SEED = 2019
     noise_th = 75.0*(sz/128.0)**2 #threshold for the number of predicted pixels
