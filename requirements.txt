@@ -6,6 +6,6 @@
 
 numpy
 matplotlib
-PIL
+pillow
 fastai
 sklearn
