@@ -1,6 +1,8 @@
 # Pneumothorax-Segmentation-using-Hypercolumns
 [![HitCount](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns.svg)](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns)
 
+[Gitter Link](https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns/master)
 
 ### This is the submission to a Kaggle competition. Thanks to [Sathvik](https://www.kaggle.com/sathvikpai) for his contributions.
