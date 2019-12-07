@@ -40,4 +40,5 @@
 ### Gitter link where you can contact the creator
 https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community
 
-
+### If you want to see the public implementation you can go to the link
+https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu
