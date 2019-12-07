@@ -36,3 +36,6 @@
 - Pasanjayawickrama;
 - Pedrohugovm;
 - annamunhoz;
+
+### Gitter link where you can contact the creator
+https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community
