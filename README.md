@@ -43,8 +43,6 @@
 
 ### If you want to see the public implementation you can go to the [link](https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu)
 
-### if end up with error in first cell in the public notebook then go through the following points
-1. first cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json
-   https://medium.com/@move37timm/using-kaggle-api-for-google-colaboratory-d18645f93648
-2. if you does not have a account and still wants to run the notebook
-   you can use the my kaggle.json in the repo
+ - If end up with error in first cell in the public notebook then go through the following points
+	1. first cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json
+	2. if you does not have a account and still wants to run the notebook you can use the kaggle.json given in the repo.
