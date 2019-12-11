@@ -48,3 +48,7 @@ https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu
    https://medium.com/@move37timm/using-kaggle-api-for-google-colaboratory-d18645f93648
 2. if you does not have a account and still wants to run the notebook
    you can use the my kaggle.json in the repo
+
+### some links for lung related tasks
+https://grand-challenge.org/challenges/
+then go to all challenges and filter it with structure == lung
