@@ -37,11 +37,11 @@
 - Pedrohugovm;
 - annamunhoz;
 
-### Gitter link where you can contact the creator
-https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community
+### KWoC Contributors:
+- Pranshu Rastogi
 
-### If you want to see the public implementation you can go to the link
-https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu
+
+### If you want to see the public implementation you can go to the [link](https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu)
 
 ### if end up with error in first cell in the public notebook then go through the following points
 1. first cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json
