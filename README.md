@@ -45,4 +45,4 @@
 
  - If end up with error in first cell in the public notebook then go through the following points
 	1. first cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json
-	2. if you does not have a account and still wants to run the notebook you can use the kaggle.json given in the repo.
+	2. if you does not have a account and still want to run the notebook you can use the kaggle.json given in the repo.
