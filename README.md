@@ -6,17 +6,17 @@
 ### Contributing
  1. Fork the repository.
 ![image](https://user-images.githubusercontent.com/41269164/70219309-9a3eca80-176a-11ea-8a4d-1bd701d07314.png)
- 2. clone the repository.
+ 2. Clone the repository.
 	`https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns.git`
- 3. create a different branch.
+ 3. Create a different branch.
 	`git checkout -b newbranch oldbranch`
  4. Do the needful changes to solve the issue.
- 5. commit the changes and open a pull request.
+ 5. Commit the changes and open a pull request.
 	`git commit -m "description about changes"`
 	`git push origin newbranch`
- 6. Making a pull request
+ 6. Making a pull request.
 ![image](https://user-images.githubusercontent.com/41269164/70219707-47194780-176b-11ea-96c2-d0c401ddb1e0.png)
-	* click on `Compare and Pull Request`
+	* Click on `Compare and Pull Request`.
 ![image](https://user-images.githubusercontent.com/41269164/70219836-8d6ea680-176b-11ea-81d5-549093bf0954.png)
 
 
@@ -29,20 +29,20 @@
 
 ###  Hacktoberfest 2019 Contributors for this repo
 
-- PedroCisnerosSantana;
-- Phaturanganamal;
-- Pejasvisoi;
-- Pasanjayawickrama;
-- Pedrohugovm;
-- annamunhoz;
+- PedroCisnerosSantana.
+- Phaturanganamal.
+- Pejasvisoi.
+- Pasanjayawickrama.
+- Pedrohugovm.
+- annamunhoz.
 
 ### KWoC Contributors:
-- Pranshu Rastogi
+- Pranshu Rastogi.
 
 
 ### If you want to see the public implementation you can go to the [link](https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu)
 
 
  - If end up with error in first cell in the public notebook then go through the following points
-	1. first cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json
-	2. if you does not have a account and still wants to run the notebook you can use the kaggle.json given in the repo.
+	1. First cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json.
+	2. If you does not have a account and still wants to run the notebook you can use the kaggle.json given in the repo.
