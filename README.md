@@ -2,6 +2,7 @@
 [![HitCount](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns.svg)](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns/master)
+## Please :star: the [Repo](https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns) if you liked it.
 
 ### Contributing
  1. Fork the repository.
