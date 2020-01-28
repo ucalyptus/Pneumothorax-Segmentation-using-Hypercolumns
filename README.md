@@ -1,4 +1,5 @@
 # Pneumothorax-Segmentation-using-Hypercolumns
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/301f2382dfff4c9099efff707166da08)](https://app.codacy.com/manual/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns?utm_source=github.com&utm_medium=referral&utm_content=ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns&utm_campaign=Badge_Grade_Dashboard)
 [![HitCount](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns.svg)](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns/master)
