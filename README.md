@@ -27,7 +27,7 @@
 ![](Hypercolumns1.png)
 
 ### Slides to my Talk
-- [link](https://docs.google.com/presentation/d/1HOrCmoDKrbKAi2xuOkHq9ZSQCCgtnuxHAZ4opmBFUv8/edit?usp=sharing)
+- [Artificial Intelligence @IEM Kolkata, November 20th, 2019](https://docs.google.com/presentation/d/1HOrCmoDKrbKAi2xuOkHq9ZSQCCgtnuxHAZ4opmBFUv8/edit?usp=sharing)
 
 ###  Hacktoberfest 2019 Contributors for this repo
 
